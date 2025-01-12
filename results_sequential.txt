@@ -1,0 +1,4 @@
+Sequential Implementation Results
+Number of samples: 100000
+Kendall correlation coefficient: 0.7063
+Execution time: 1262.69 seconds

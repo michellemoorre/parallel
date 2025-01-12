@@ -1,0 +1,30 @@
+Parallel Implementation Results
+Number of samples: 100000
+
+Processes: 2
+Kendall correlation coefficient: 0.7063
+Execution time: 920.02 seconds
+
+Processes: 3
+Kendall correlation coefficient: 0.7063
+Execution time: 684.02 seconds
+
+Processes: 4
+Kendall correlation coefficient: 0.7063
+Execution time: 548.45 seconds
+
+Processes: 5
+Kendall correlation coefficient: 0.7063
+Execution time: 449.71 seconds
+
+Processes: 6
+Kendall correlation coefficient: 0.7063
+Execution time: 384.88 seconds
+
+Processes: 7
+Kendall correlation coefficient: 0.7063
+Execution time: 333.57 seconds
+
+Processes: 8
+Kendall correlation coefficient: 0.7063
+Execution time: 299.64 seconds

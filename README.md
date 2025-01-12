@@ -52,3 +52,7 @@ The implementation uses randomly generated data with 100,000 samples. The data i
 ## Results
 
 The benchmark results and speedup visualization will be generated in the `results` directory. 
+
+## Example Speedup Plot
+
+![Speedup Plot](speedup_plot.png)
